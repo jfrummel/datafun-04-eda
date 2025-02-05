@@ -1,8 +1,8 @@
 # datafun-04-eda
 
-### Project creation process
-1. Create and clone repo from GitHub
-    `git clone <repo>`
+### Project Creation Process
+1. Create and clone repo from GitHub<br>
+    `git clone <repo>`<br>
     Include README.md
 2. Add .gitignore and requirements.txt
 3. Create virtual environment <br>
